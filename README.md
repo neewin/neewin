@@ -1,75 +1,124 @@
-# Hi there! 👋 I'm Neewin
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">
+MCA Student • Physics Graduate • AI Enthusiast • Software Developer
+</h3>
 
-## 💫 About Me
-
-🎓 MCA Student  
-💻 Passionate about AI, Machine Learning, and Software Development  
-🌱 Currently learning Python, Flask, Android Development, and NLP  
-🚀 Interested in building AI-powered applications and automation tools  
-📍 India
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
+
+🎓 Currently pursuing a **Master of Computer Applications (MCA)** with a strong academic foundation in **Physics**.
+
+💡 Passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**.
+
+🌱 Currently exploring **Large Language Models (LLMs)**, **IBM watsonx.ai**, **Android Development**, and **Cloud Technologies**.
+
+🚀 I enjoy creating software that solves real-world problems through clean design and modern technologies.
+
+🌌 Outside technology, I'm fascinated by **space, astronomy, and astrophysics**. Stargazing is one of my favorite ways to unwind and stay inspired by the scale and beauty of the universe.
+
+🐈 Proud cat enthusiast.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
+</p>
+
+### Web & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,flask,androidstudio" />
+</p>
 
 ### AI & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🌾 Crop Disease Symptom Extraction
-Automated extraction of crop disease symptoms from unstructured farmer chat logs using Named Entity Recognition (NER).
+🌾 **Automated Crop Disease Symptom Extraction**
 
-### 🥗 AI Nutrition Agent
-An AI-powered nutrition assistant built with Flask and IBM watsonx.ai.
+> Research project using Named Entity Recognition (NER) to automatically extract crop disease symptoms from unstructured farmer chat logs.
 
-### 📱 Android Projects
-Collection of Android applications developed while learning Android Studio.
+🥗 **AI Nutrition Agent**
 
----
+> AI-powered nutrition assistant built with Flask and IBM watsonx.ai.
 
-## 📊 GitHub Stats
+📱 **Android Applications**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+> Collection of Android applications developed while learning native Android development.
 
 ---
 
-## 🔥 GitHub Streak
+## 📚 Currently Learning
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neewinchandrank)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+- 🤖 Large Language Models (LLMs)
+- 🧠 Natural Language Processing
+- ☁️ IBM watsonx.ai
+- 📱 Android Development
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ☁️ Cloud Computing
 
 ---
 
-> *"Keep learning. Keep building. Keep improving."* 🚀
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌠 Beyond Code
+
+- 🌌 Astronomy & Space Science
+- 🔭 Stargazing
+- 📚 Science & Technology
+- 🧩 Problem Solving
+- 🐈 Cats
+
+> *"Curiosity fuels discovery—whether exploring intelligent systems on Earth or the mysteries of the universe beyond."* 🚀
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
